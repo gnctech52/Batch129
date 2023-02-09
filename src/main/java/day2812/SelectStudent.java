@@ -1,3 +1,4 @@
+package day2812;
 import java.util.Scanner;
 
 /*
@@ -49,7 +50,8 @@ public class SelectStudent {
                 System.out.print("kilo: ");
                 weight[i]=scan.nextDouble();
             }
-        }while(!isSuccess);
+        }
+        while(!isSuccess);
         int counter=0;
         System.out.println("*** kursa seçilen öğrenciler ***");
         for(int i=0;i<numStd; i++) {
