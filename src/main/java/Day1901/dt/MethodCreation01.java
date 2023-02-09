@@ -1,4 +1,4 @@
-package dt;
+package day1901.dt;
 
 public class MethodCreation01 {
     /*
