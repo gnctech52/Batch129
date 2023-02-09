@@ -61,5 +61,4 @@ class Variables01 {
         long weightOfSun = 1234567;
         System.out.println("site nüfusu:"+siteNufusu);
     }
-
 }
